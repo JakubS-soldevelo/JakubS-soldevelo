@@ -8,7 +8,7 @@
   # Hi, I'm Kuba
   ### Frontend Developer @ SolDevelo
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://pl.linkedin.com/in/jakub-snarski-7b7674221))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakub-snarski-7b7674221)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsnarski@soldevelo.com)
   [![SolDevelo](https://img.shields.io/badge/SolDevelo-Website-4A90D9?style=for-the-badge)](https://soldevelo.com/)
 
